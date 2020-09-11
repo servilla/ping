@@ -1,0 +1,12 @@
+name: whiskey
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - click
+  - daiquiri
+  - requests
+  - pytest
+  - black
+prefix: /home/servilla/anaconda3/envs/whiskey
